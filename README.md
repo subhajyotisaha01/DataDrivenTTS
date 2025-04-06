@@ -1,3 +1,3 @@
 # DataDrivenTTS
-A Data Driven Grapheme to Phoneme TTS Model <br\>
+A Data Driven Grapheme to Phoneme TTS Model.
 Code will be updated soon.
